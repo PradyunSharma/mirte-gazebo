@@ -21,7 +21,7 @@
   <!-- This will listen to /mirte/cmd_vel -->
   <include file="$(find-pkg-share mirte_gazebo)/launch/spawn_mirte_master.launch.xml">
     <arg name="x" value="1.0527"/>
-    <arg name="y" value="0.509611"/>
+    <arg name="y" value="1.0"/>
     <arg name="z" value="0.021444"/>
   </include>
 
